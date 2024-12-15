@@ -1,11 +1,10 @@
 # <span style="color: #6a0dad;"><strong>**Hello, Welcome to My Profile**</strong></span> 
 
-![Suresh Parimi](profile.webp)
 Welcome! I am Suresh Parimi [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://linkedin.com/in/sparimi), a **Software Test Automation & Quality Engineering Consultant** with a passion for delivering high-quality software solutions. With over 18+ years of experience in the software testing & Automation, I specialize in building robust and scalable test automation frameworks for web,mobile applications and backend services.
 
 I am always excited to collaborate on challenging projects that push the boundaries of quality engineering and automation.
 
-## Check My Availability below:
+## My availabiity for Next Assignments:
 
 <p align="center">
   <a href="mailto:sparimi@sparimi.com">
