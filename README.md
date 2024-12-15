@@ -12,14 +12,14 @@ I am always excited to collaborate on challenging projects that push the boundar
   </a>
 </p>
 
-## Check out my portfolio for more: [https://sureshparimi.netlify.app](https://sureshparimi.netlify.app)
+## [![Portfolio](https://img.shields.io/badge/Portfolio-%2300A859.svg?logo=netlify&logoColor=white)](https://sureshparimi.netlify.app)
 
 
 ## <span style="color: #6a0dad;"><strong>💫 About Me:</strong></span>
 - 🔭 I’m currently working as a Lead Consultant in Software Test Automation and Quality Engineering.  
-- 🌱 I’m currently reviewing tools and methodologies in Test Automation, CI/CD, and Quality Engineering.  
+- 🌱 I’m currently implementing playwright, Selenium, Cypress to automate Web, Mobile and webservices testing with CI/CD implementation. 
 - 👯 I’m looking to collaborate on projects related to Test Automation frameworks, Web, and Mobile App testing.  
-- 💬 Ask me about Test Automation, Quality Engineering, Web and Mobile App development.  
+- 💬 Ask me about Test Automation, Quality Engineering, Gen AI in Business Automation/Automation Testing.  
 - 📫 How to reach me: sparimi@sparimi.com  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: Did you know that in the Netherlands, there are more bikes than people? It's one of the most bike-friendly countries in the world!
