@@ -39,10 +39,15 @@ I am always excited to collaborate on challenging projects that push the boundar
 
 ---
 
-## <span style="color: #6a0dad;"><strong>📞 Contact Me:</strong></span>
-### 📧 Email: [sparimi@sparimi.com](mailto:sparimi@sparimi.com)
-### 📱 Mobile: +31616270233
-### 📍 Location: Amsterdam, Netherlands
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <strong>📞 Contact Me:</strong>
+  <strong>📧 Email:</strong> <a href="mailto:sparimi@sparimi.com">sparimi@sparimi.com</a>
+  <strong>📱 Mobile:</strong> +31616270233
+  <strong>📍 Location:</strong> Amsterdam, Netherlands
+  <a href="https://linkedin.com/in/sparimi">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
