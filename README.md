@@ -12,7 +12,7 @@ I am always excited to collaborate on challenging projects that push the boundar
   </a>
 </p>
 
-## [![Portfolio](https://img.shields.io/badge/Portfolio-%2300A859.svg?logo=netlify&logoColor=white)](https://sureshparimi.netlify.app)
+##  [![Visit My Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-%230A3C52.svg?logo=netlify&logoColor=white&style=for-the-badge)](https://sureshparimi.netlify.app)
 
 
 ## <span style="color: #6a0dad;"><strong>💫 About Me:</strong></span>
