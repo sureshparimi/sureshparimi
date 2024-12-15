@@ -1,12 +1,13 @@
-# Hello, I’m Suresh Parimi – Software Test Automation & Quality Engineering Consultant
+# <span style="color: #6a0dad;"><strong>**Hello, Welcome to My Profile**</strong></span>  
+Welcome! I am Suresh Parimi, a **Software Test Automation & Quality Engineering Consultant** with a passion for delivering high-quality software solutions. With over 6 years of experience in the software development and testing industry, I specialize in building robust and scalable test automation frameworks for both web and mobile applications.
 
-I am a passionate web and mobile app developer with over 6 years of experience in programming and the internet. In my free time, I enjoy writing articles on my [blog](https://medium.com/@2ndelement). I also run my own talent pool company with proven and vetted developers.
+I am always excited to collaborate on challenging projects that push the boundaries of quality engineering and automation.
 
 Check out my portfolio for more: [https://sureshparimi.netlify.app](https://sureshparimi.netlify.app)
 
 ---
 
-## 💫 About Me:
+## <span style="color: #6a0dad;"><strong>💫 About Me:</strong></span>
 - 🔭 I’m currently working as a Lead Consultant in Software Test Automation and Quality Engineering.  
 - 🌱 I’m currently reviewing tools and methodologies in Test Automation, CI/CD, and Quality Engineering.  
 - 👯 I’m looking to collaborate on projects related to Test Automation frameworks, Web, and Mobile App testing.  
@@ -17,12 +18,19 @@ Check out my portfolio for more: [https://sureshparimi.netlify.app](https://sure
 
 ---
 
-## 🌐 Socials:
+## <span style="color: #6a0dad;"><strong>📞 Contact Me:</strong></span>
+### 📧 Email: [sparimi@sparimi.com](mailto:sparimi@sparimi.com)
+### 📱 Mobile: +31616270233
+### 📍 Location: Amsterdam, Netherlands
+
+---
+
+## <span style="color: #6a0dad;"><strong>🌐 Socials:</strong></span>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://linkedin.com/in/sparimi)
 
 ---
 
-## 💻 Tech Stack:
+## <span style="color: #6a0dad;"><strong>💻 Tech Stack:</strong></span>
 <div>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
@@ -54,7 +62,7 @@ Check out my portfolio for more: [https://sureshparimi.netlify.app](https://sure
 
 ---
 
-## 📊 GitHub Stats:
+## <span style="color: #6a0dad;"><strong>📊 GitHub Stats:</strong></span>
 ![Profile Views](https://komarev.com/ghpvc/?username=sureshparimi&color=dc143c)
 [![wakatime](https://wakatime.com/badge/user/072e7dc4-793a-4d70-86fe-15b01af3a38b.svg)](https://wakatime.com/@072e7dc4-793a-4d70-86fe-15b01af3a38b)
 
@@ -64,27 +72,14 @@ Check out my portfolio for more: [https://sureshparimi.netlify.app](https://sure
 
 ---
 
-## 🏆 GitHub Trophies
+## <span style="color: #6a0dad;"><strong>🏆 GitHub Trophies</strong></span>
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sureshparimi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
-### ✍️ Random Dev Quote
+### <span style="color: #6a0dad;"><strong>✍️ Random Dev Quote</strong></span>
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-### 🔝 Top Contributed Repo
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=sureshparimi&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-## 📞 Contact Me:
-
-### 📧 Email: [sparimi@sparimi.com](mailto:sparimi@sparimi.com)
-### 📱 Mobile: +31616270233
-### 📍 Location: Amsterdam, Netherlands
-
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### <span style="color: #6a0dad;"><strong>🔝 Top
