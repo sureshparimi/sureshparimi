@@ -6,7 +6,7 @@ I am always excited to collaborate on challenging projects that push the boundar
 ## Check My Availability for New Assignments
 <p align="center">
   <a href="mailto:sparimi@sparimi.com">
-    <span style="padding: 300px 600px; background-color: #4CAF50; color: green; font-weight: bold; border-radius: 50%; width: 150px; height: 150px; font-size: 36px; display: inline-flex; justify-content: center; align-items: center; text-align: center; cursor: pointer; box-shadow: 0 0 15px rgba(0, 0, 0, 0.2); transition: background-color 0.3s;">
+    <span style="padding: 300px 600px; background-color: #4CAF50; color: green; font-weight: bold; border-radius: 50%; width: 150px; height: 150px; font-size: 36px; display: inline-flex; justify-content: center; align-items: center; text-align: center; cursor: pointer; box-shadow: 0 0 15px rgba(0, 255, 0, 0.2); transition: background-color 0.3s;">
       <span style="font-size: 1.5em;">💡</span>
     </span>
   </a>
