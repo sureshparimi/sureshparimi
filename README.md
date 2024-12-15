@@ -7,11 +7,20 @@ I am always excited to collaborate on challenging projects that push the boundar
 
 <p align="center">
   <a href="mailto:sparimi@sparimi.com">
-    <span style="padding: 30px 60px; background-color: #4CAF50; color: green; font-weight: bold; border-radius: 50%; width: 40px; height: 40px; font-size: 36px; display: inline-flex; justify-content: center; align-items: center; text-align: center; cursor: pointer; box-shadow: 0 0 15px rgba(0, 255, 0, 0.2); transition: background-color 0.3s;">
+    <span style="padding: 30px 60px; background-color: #4CAF50; color: green; font-weight: bold; border-radius: 50%; width: 80px; height: 80px; font-size: 36px; display: inline-flex; justify-content: center; align-items: center; text-align: center; cursor: pointer; box-shadow: 0 0 15px rgba(0, 255, 0, 0.2); transition: background-color 0.3s;">
       <span style="font-size: 1.5em;">YES</span>
     </span>
   </a>
 </p>
+
+<p align="center">
+  <strong>📞 Contact Me:</strong>
+  <br>
+  <strong>📧 Email:</strong> <a href="mailto:sparimi@sparimi.com">sparimi@sparimi.com</a>
+  <br>
+  <strong>📱 Mobile:</strong> +31616270233
+</p>
+
 <p align="center">
   <a href="https://sureshparimi.netlify.app">
     <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-%230A3C52.svg?logo=netlify&logoColor=white&style=for-the-badge" alt="Visit My Portfolio">
