@@ -3,9 +3,19 @@ Welcome! I am Suresh Parimi, a **Software Test Automation & Quality Engineering 
 
 I am always excited to collaborate on challenging projects that push the boundaries of quality engineering and automation.
 
+## Available for New Opportunities
+
+<p align="center">
+  <a href="mailto:sparimi@sparimi.com?subject=Inquiry%20for%20Opportunities&body=I%20am%20interested%20in%20new%20opportunities%20with%20Suresh%20Parimi." target="_blank">
+    <button style="padding: 15px 30px; background-color: green; color: white; font-weight: bold; border: none; border-radius: 5px;">
+      Available for New Opportunities
+    </button>
+  </a>
+</p>
+
 Check out my portfolio for more: [https://sureshparimi.netlify.app](https://sureshparimi.netlify.app)
 
----
+
 
 ## <span style="color: #6a0dad;"><strong>💫 About Me:</strong></span>
 - 🔭 I’m currently working as a Lead Consultant in Software Test Automation and Quality Engineering.  
