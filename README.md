@@ -3,14 +3,15 @@ Welcome! I am Suresh Parimi, a **Software Test Automation & Quality Engineering 
 
 I am always excited to collaborate on challenging projects that push the boundaries of quality engineering and automation.
 
-## Available for New Opportunities
+## Check My Availability for New Assignments
+
 
 <p align="center">
-  <a href="mailto:sparimi@sparimi.com?subject=Inquiry%20for%20Opportunities&body=I%20am%20interested%20in%20new%20opportunities%20with%20Suresh%20Parimi." target="_blank">
-    <button style="padding: 15px 30px; background-color: green; color: white; font-weight: bold; border: none; border-radius: 5px;">
-      Available for New Opportunities
-    </button>
-  </a>
+  <button style="padding: 30px 60px; background-color: #4CAF50; color: white; font-weight: bold; border: none; border-radius: 50%; width: 150px; height: 150px; font-size: 24px; box-shadow: 0 0 15px rgba(0, 0, 0, 0.2); cursor: pointer; transition: background-color 0.3s;">
+    <svg xmlns="http://www.w3.org/2000/svg" fill="white" width="70" height="70" viewBox="0 0 24 24">
+      <path d="M12 2C7.58 2 4 5.58 4 10c0 3.5 2.35 6.43 5.5 7.38V18h-1.5v2h3v-2h-1.5v-1.62C13.65 16.43 16 13.5 16 10c0-4.42-3.58-8-8-8zm1 12h-2v-2h2v2zm0-4h-2V7h2v3z"/>
+    </svg>
+  </button>
 </p>
 
 Check out my portfolio for more: [https://sureshparimi.netlify.app](https://sureshparimi.netlify.app)
