@@ -36,6 +36,10 @@ I am always excited to collaborate on challenging projects that push the boundar
 ## <span style="color: #6a0dad;"><strong>🌐 Socials:</strong></span>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://linkedin.com/in/sparimi)
 
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=Medium&logoColor=white)](https://medium.com/@2ndelement)
+
+[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Suresh-Parimi-%E0%B0%B8%E0%B1%81%E0%B0%B0%E0%B1%87%E0%B0%B7%E0%B1%8D-%E0%B0%AA%E0%B0%B0%E0%B0%BF%E0%B0%AE%E0%B0%BF-I-am-HINDU)
+
 ---
 
 ## <span style="color: #6a0dad;"><strong>💻 Tech Stack:</strong></span>
