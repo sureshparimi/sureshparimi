@@ -1,5 +1,5 @@
 # <span style="color: #6a0dad;"><strong>**Hello, Welcome to My Profile**</strong></span>  
-Welcome! I am Suresh Parimi, a **Software Test Automation & Quality Engineering Consultant** with a passion for delivering high-quality software solutions. With over 6 years of experience in the software development and testing industry, I specialize in building robust and scalable test automation frameworks for both web and mobile applications.
+Welcome! I am Suresh Parimi [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://linkedin.com/in/sparimi), a **Software Test Automation & Quality Engineering Consultant** with a passion for delivering high-quality software solutions. With over 6 years of experience in the software development and testing industry, I specialize in building robust and scalable test automation frameworks for both web and mobile applications.
 
 I am always excited to collaborate on challenging projects that push the boundaries of quality engineering and automation.
 
@@ -12,8 +12,7 @@ I am always excited to collaborate on challenging projects that push the boundar
   </a>
 </p>
 
-Check out my portfolio for more: [https://sureshparimi.netlify.app](https://sureshparimi.netlify.app)
-
+## Check out my portfolio for more: [https://sureshparimi.netlify.app](https://sureshparimi.netlify.app)
 
 
 ## <span style="color: #6a0dad;"><strong>💫 About Me:</strong></span>
