@@ -18,33 +18,9 @@ Check out my portfolio for more https://sureshparimi.netlify.app
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://linkedin.com/in/sparimi)
 
 # 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)  ![Selenium](https://img.shields.io/badge/Selenium-%234A9C5A.svg?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-%234A9C5A.svg?style=for-the-badge&logo=selenium&logoColor=white) 
+![Playwright](https://img.shields.io/badge/Playwright-%2333498A.svg?style=for-the-badge&logo=playwright&logoColor=white) ![JIRA](https://img.shields.io/badge/JIRA-%230A0B0D.svg?style=for-the-badge&logo=jira&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-%2300B0D8.svg?style=for-the-badge&logo=cypress&logoColor=white) ![LoadRunner](https://img.shields.io/badge/LoadRunner-%23D2D2D2.svg?style=for-the-badge&logo=hp&logoColor=white) ![JMeter](https://img.shields.io/badge/JMeter-%23000000.svg?style=for-the-badge&logo=apache&logoColor=white)![CI/CD](https://img.shields.io/badge/CI%2FCD-%232673E8.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-%230F7ACF.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Test Management](https://img.shields.io/badge/Test%20Management-%23F6A3B0.svg?style=for-the-badge) ![Quality Engineering](https://img.shields.io/badge/Quality%20Engineering-%239A2C2C.svg?style=for-the-badge) ![Release Management](https://img.shields.io/badge/Release%20Management-%230A8C6C.svg?style=for-the-badge)![Data Analytics](https://img.shields.io/badge/Data%20Analytics-%236446F7.svg?style=for-the-badge) ![Quality Assurance](https://img.shields.io/badge/Quality%20Assurance-%23F1C40F.svg?style=for-the-badge&logo=check-circle&logoColor=white)
 
-![Playwright](https://img.shields.io/badge/Playwright-%2333498A.svg?style=for-the-badge&logo=playwright&logoColor=white)](https://playwright.dev/)
-
-![JIRA](https://img.shields.io/badge/JIRA-%230A0B0D.svg?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
-
-![Cypress](https://img.shields.io/badge/Cypress-%2300B0D8.svg?style=for-the-badge&logo=cypress&logoColor=white)](https://www.cypress.io/)
-
-![LoadRunner](https://img.shields.io/badge/LoadRunner-%23D2D2D2.svg?style=for-the-badge&logo=hp&logoColor=white)](https://www.microfocus.com/en-us/products/loadrunner-professional/overview)
-
-![JMeter](https://img.shields.io/badge/JMeter-%23000000.svg?style=for-the-badge&logo=apache&logoColor=white)](https://jmeter.apache.org/)
-
-![CI/CD](https://img.shields.io/badge/CI%2FCD-%232673E8.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://www.atlassian.com/continuous-delivery)
-
-![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
-
-![Azure](https://img.shields.io/badge/Azure-%230F7ACF.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
-
-![Test Management](https://img.shields.io/badge/Test%20Management-%23F6A3B0.svg?style=for-the-badge)](https://www.atlassian.com/software/jira/service-management)
-
-![Quality Engineering](https://img.shields.io/badge/Quality%20Engineering-%239A2C2C.svg?style=for-the-badge)](https://www.softwaretestinghelp.com/quality-engineering/)
-
-![Release Management](https://img.shields.io/badge/Release%20Management-%230A8C6C.svg?style=for-the-badge)](https://www.bmc.com/blogs/release-management/)
-
-![Data Analytics](https://img.shields.io/badge/Data%20Analytics-%236446F7.svg?style=for-the-badge)](https://www.tableau.com/)
-
-![Quality Assurance](https://img.shields.io/badge/Quality%20Assurance-%23F1C40F.svg?style=for-the-badge&logo=check-circle&logoColor=white)](https://www.guru99.com/what-is-software-quality-assurance.html)
 # 📊 GitHub Stats:
 ![](https://komarev.com/ghpvc/?username=sureshparimi&color=dc143c)
 [![wakatime](https://wakatime.com/badge/user/072e7dc4-793a-4d70-86fe-15b01af3a38b.svg)](https://wakatime.com/@072e7dc4-793a-4d70-86fe-15b01af3a38b)
